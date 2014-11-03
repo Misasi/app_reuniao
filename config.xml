@@ -6,10 +6,10 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Flagapp</name>
+    <name>Misasi</name>
 
     <description>
-        Apenas um teste para upload haha
+        Disparo de emails após reunião
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
